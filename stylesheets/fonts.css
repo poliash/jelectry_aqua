@@ -1,0 +1,27 @@
+@font-face {
+    font-family: "IFKica-Bold";
+    src: url("../fonts/IFKica-Bold.ttf") format("truetype");
+    font-style: bold;
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: "IFKica-Light";
+    src: url("../fonts/IFKica-Light.ttf") format("truetype");
+    font-style: Light;
+    font-weight: Light;
+}
+
+@font-face {
+    font-family: "IFKica-Regular";
+    src: url("../fonts/IFKica-Regular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+.heading{
+
+    font-family: "IFKica-Bold";
+}
+p{
+    font-family: "IFKica-Bold";
+}

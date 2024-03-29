@@ -1,0 +1,109 @@
+@media screen and (max-width: 834px) {
+    
+html{
+   width: 100vw;
+   height: 400vw;
+} 
+
+.meduzy{
+    display: flex;
+    flex-direction: column;
+}
+.meduza1{
+    display: flex;
+    flex-direction: column;
+    transform: scale(2.1);
+    justify-content: space-between;
+    padding-left: 25vw;
+    padding-top: 12vw;
+}
+.meduza2{
+    display: block;
+    flex-direction: column;
+    transform: scale(2.1);
+    padding-top: 58vw; 
+}
+.meduza3{
+    display: flex;
+    flex-direction: column;
+    transform: scale(2.1);
+    padding-top: 190vw;
+}
+.meduza4{
+    display: flex;
+    z-index: 70;
+    flex-direction: column;
+    transform: scale(2.1);
+    padding-top: 150vw;
+} 
+
+.jelly3, .jelly3_1, .jelly3_2{
+    transform: scale(0.5);
+}
+.podval{
+    padding-top: 300vw;
+    margin-left: 2.5vw;
+}
+.back{
+    width: 100vw;
+}
+
+.back_niz{
+    width: 100vw;
+    display: block;
+}
+.back2{
+    width: 100vw;
+    display: block;
+}
+
+.katushka4 {
+    display: block;
+}
+
+.katushka5 {
+    display: block;
+}
+.katushka6 {
+    display: block;
+}
+.wow{
+    margin-top: 0vw;
+    margin-left: 8vw;
+}
+.super{
+    margin-top: 20vw;
+    margin-left: 25vw;
+}
+.yeah{
+    margin-left: 10vw;
+    margin-top: 0vw;
+}
+
+.text_podval{
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 3vw;
+    color: #FFFFFF;
+}
+
+.logo{
+    margin-left: 67vw;
+    display: flex;
+    flex-direction: row;
+    width: 25vw;
+}
+
+.plankton{
+    position: absolute;
+    margin-top: 170vw;
+    transform: scale(2);
+}
+.plankton2{
+   display: block;
+   margin-left: 2vw;
+   width: 200vw;
+}
+}
